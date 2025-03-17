@@ -40,7 +40,8 @@ A fonte dos dados foi o site da Coursera, sua lista de cursos gratuitos disponí
    ```
 
 
-Dessa forma, todos os componentes necessários estejam disponíveis e prontos para execução.ink 
+Dessa forma, todos os componentes necessários estejam disponíveis e prontos para execução.
 
-Link para o repositório no Github: https://github.com/joaopaulobarbosa/MBA_data_harvesting
+
+**Link para o repositório no Github:** https://github.com/joaopaulobarbosa/MBA_data_harvesting
 
