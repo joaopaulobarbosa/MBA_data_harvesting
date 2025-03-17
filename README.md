@@ -40,5 +40,5 @@ A fonte dos dados foi o site da Coursera, sua lista de cursos gratuitos disponí
    ```
 
 
-Isso garantirá que todos os componentes necessários estejam disponíveis e prontos para execução.
+Dessa forma, todos os componentes necessários estejam disponíveis e prontos para execução.
 
